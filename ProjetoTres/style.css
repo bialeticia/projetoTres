@@ -1,0 +1,84 @@
+.align-left {
+  float: left;
+}
+
+.corum{
+  color: green;
+}
+
+.cordois{
+  color: red;
+}
+
+.align-right {
+  float: right;
+}
+
+.botaoa{
+  background-color: cornflowerblue;
+  color:white;
+  border-radius: 4px;
+  border: none;
+
+}
+
+.botaob{
+  color:black;
+  border: none;
+  border-radius: 4px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer span {
+  margin-right: 1rem;
+}
+
+.footer span.align-left {
+  margin-right: auto;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+h6 {
+  margin-bottom: 5px;
+}
+
+h6:last-child {
+  margin-bottom: 0;
+}
+
+h6.color-green {
+  color: green;
+}
+
+h6.color-red {
+  color: red;
+}
+
+.ml-4 {
+  margin-left: 4.5rem;
+}
